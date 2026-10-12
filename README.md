@@ -1,11 +1,13 @@
-<!-- ============ HEADER ============ -->
+<!-- ============ HEADER: same hero as gglias.github.io (animated SVG in assets/hero.svg) ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A259FF,50:1ABCFE,100:0ACF83&height=220&section=header&text=Hi,%20I'm%20Greg&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Product%20Designer%20%C2%B7%20Figma%20%E2%86%92%20WordPress&descSize=20&descAlignY=56" width="100%" alt="Header" />
+  <a href="https://gglias.github.io">
+    <img src="assets/hero.svg" width="100%" alt="I design it in Figma. Then I build it in WordPress." />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://gglias.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=A259FF&center=true&vCenter=true&width=620&lines=I+design+in+Figma.+I+ship+in+WordPress.;Pixel-perfect+UI+%E2%86%92+real%2C+fast+websites;Design+systems%2C+prototypes+%26+custom+plugins;Product+Designer+%40+Smartup" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=A259FF&center=true&vCenter=true&width=620&lines=Pixel-perfect+UI+%E2%86%92+real%2C+fast+websites;Design+systems%2C+prototypes+%26+custom+plugins;Product+Designer+%40+Smartup" alt="Typing SVG" />
   </a>
 </p>
 
