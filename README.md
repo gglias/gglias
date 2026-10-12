@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://gglias.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=A259FF&center=true&vCenter=true&width=620&lines=Pixel-perfect+UI+%E2%86%92+real%2C+fast+websites;Design+systems%2C+prototypes+%26+custom+plugins;Product+Designer+%40+Smartup" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=A259FF&center=true&vCenter=true&width=620&lines=Pixel-perfect+UI+%E2%86%92+real%2C+fast+websites;Design+systems%2C+prototypes+%26+custom+plugins;Senior+Product+Designer+%40+Smartup" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,11 +21,11 @@
 
 ### 👋 About me
 
-I'm a **product designer** who doesn't stop at the mockup. I design interfaces in **Figma** and then build them for real in **WordPress** — themes, Elementor layouts and custom plugins — so what the client approves is exactly what goes live.
+I'm a **senior product designer** who doesn't stop at the mockup. I design interfaces in **Figma** and then build them for real in **WordPress** — themes, Elementor layouts and custom plugins — so what the client approves is exactly what goes live.
 
 ```js
 const greg = {
-  role:        "Product Designer",
+  role:        "Senior Product Designer",
   designsIn:   ["Figma", "FigJam", "Adobe CC"],
   buildsWith:  ["WordPress", "Elementor", "PHP", "JavaScript", "CSS"],
   alsoDoes:    ["Design systems", "Prototyping", "Motion (Blender)", "Multilingual sites (WPML)"],
