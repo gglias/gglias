@@ -54,10 +54,10 @@ I work at **[Smartup](https://smartupweb.com)**, where I've designed and built a
 
 | Plugin | What it does |
 | :-- | :-- |
-| 📣 **SmartBanner** | Floating announcement banner, fully multilingual with WPML |
-| 📝 **SmartInquiry** | Project-inquiry modal form that generates a PDF brief on the server |
-| 🍪 **SmartConsent** | Lightweight GDPR cookie consent banner with per-language policy pages |
-| 📅 **Simple Booking** | Booking & appointments for small businesses *(in progress)* |
+| 📣 **[SmartBanner](https://github.com/gglias/smartbanner)** | Floating banner that promotes a blog post or custom content, multilingual with WPML |
+| 📝 **[SmartInquiry](https://github.com/gglias/smartinquiry)** | Step-by-step quote form in a popup, with a PDF brief generated on the server |
+| 🍪 **[SmartConsent](https://github.com/gglias/smartconsent)** | Cookie consent with Google Consent Mode v2 and a self-building cookie policy |
+| 📅 **[Simple Booking](https://github.com/gglias/simple-booking)** | Online appointments for a salon *(beta)* |
 
 ---
 
