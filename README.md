@@ -12,9 +12,20 @@
 </p>
 
 <p align="center">
-  <a href="https://gglias.github.io"><img src="https://img.shields.io/badge/Portfolio-A259FF?style=for-the-badge&logo=figma&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://smartupweb.com"><img src="https://img.shields.io/badge/smartupweb.com-0ACF83?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <img src="https://komarev.com/ghpvc/?username=gglias&style=for-the-badge&color=A259FF&label=PROFILE+VIEWS" alt="Profile views" />
+  <!-- Buttons in Inter, with light/dark versions (assets/btn-*.svg) -->
+  <a href="https://gglias.github.io"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg" />
+    <img src="assets/btn-portfolio-light.svg" height="44" alt="View portfolio" />
+  </picture></a>
+  &nbsp;
+  <a href="https://smartupweb.com"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-smartup-dark.svg" />
+    <img src="assets/btn-smartup-light.svg" height="44" alt="smartupweb.com" />
+  </picture></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gglias&style=flat-square&color=A259FF&label=profile+views" alt="Profile views" />
 </p>
 
 ---
