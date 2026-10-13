@@ -24,10 +24,6 @@
   </picture></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gglias&style=flat-square&color=A259FF&label=profile+views" alt="Profile views" />
-</p>
-
 ---
 
 ### 👋 About me
